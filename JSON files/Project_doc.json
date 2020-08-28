@@ -1,0 +1,655 @@
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4926"
+	},
+	"Pname": "ConfigMgmt",
+	"Pnumber": 11,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Debra",
+			"LName": "Hall",
+			"Hours": 20
+		},
+		{
+			"FName": "Jake",
+			"LName": "Sheen",
+			"Hours": 25
+		},
+		{
+			"FName": "Wilson",
+			"LName": "Holmes",
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4927"
+	},
+	"Pname": "Computerization",
+	"Pnumber": 10,
+	"Dname": "Administration",
+	"Employees": [
+		{
+			"FName": "Franklin",
+			"LName": "Wong",
+			"Hours": 10
+		},
+		{
+			"FName": "Alicia",
+			"LName": "Zelaya",
+			"Hours": 10
+		},
+		{
+			"FName": "Ahmad",
+			"LName": "Jabbar",
+			"Hours": 35
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Jake",
+			"LName": "Sheen",
+			"Hours": 25
+		},
+		{
+			"FName": "Richard",
+			"LName": "Koelbel",
+			"Hours": 35
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4928"
+	},
+	"Pname": "Advertizing",
+	"Pnumber": 70,
+	"Dname": "HR",
+	"Employees": [
+		{
+			"FName": "Percy",
+			"LName": "Liang",
+			"Hours": 10
+		},
+		{
+			"FName": "Erin",
+			"LName": "Maxfield",
+			"Hours": 20
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 2
+		},
+		{
+			"FName": "Megan",
+			"LName": "Jones",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4929"
+	},
+	"Pname": "DataMining",
+	"Pnumber": 13,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Alex",
+			"LName": "Yu",
+			"Hours": 18
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492a"
+	},
+	"Pname": "DatabaseSystems",
+	"Pnumber": 62,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Kim",
+			"LName": "Ted",
+			"Hours": 25
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Red",
+			"LName": "Bacher",
+			"Hours": 10
+		},
+		{
+			"FName": "Arnold",
+			"LName": "Head",
+			"Hours": 40
+		},
+		{
+			"FName": "Chris",
+			"LName": "Carter",
+			"Hours": 40
+		},
+		{
+			"FName": "Jenny",
+			"LName": "Vos",
+			"Hours": 40
+		},
+		{
+			"FName": "Tom",
+			"LName": "Brand",
+			"Hours": 40
+		},
+		{
+			"FName": "Andy",
+			"LName": "Vile",
+			"Hours": 40
+		},
+		{
+			"FName": "Josh",
+			"LName": "Zell",
+			"Hours": 48
+		},
+		{
+			"FName": "Evan",
+			"LName": "Wallis",
+			"Hours": 40
+		},
+		{
+			"FName": "Erin",
+			"LName": "Maxfield",
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492b"
+	},
+	"Pname": "EntityAnnot",
+	"Pnumber": 4,
+	"Dname": "Research",
+	"Employees": [
+		{
+			"FName": "Michael",
+			"LName": "Morgan",
+			"Hours": 11
+		},
+		{
+			"FName": "Wilson",
+			"LName": "Holmes",
+			"Hours": 5
+		},
+		{
+			"FName": "Cameron",
+			"LName": "Thirteen",
+			"Hours": 45
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492c"
+	},
+	"Pname": "Human1",
+	"Pnumber": 95,
+	"Dname": "HR",
+	"Employees": [
+		{
+			"FName": "Sheldon",
+			"LName": "Cucuou",
+			"Hours": 23
+		},
+		{
+			"FName": "willie",
+			"LName": "Mary",
+			"Hours": 35
+		},
+		{
+			"FName": "Juan",
+			"LName": "Linda",
+			"Hours": 40
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 3
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492d"
+	},
+	"Pname": "InkjetPrinters",
+	"Pnumber": 91,
+	"Dname": "Hardware",
+	"Employees": [
+		{
+			"FName": "Alec",
+			"LName": "Best",
+			"Hours": 40
+		},
+		{
+			"FName": "Bonnie",
+			"LName": "Bays",
+			"Hours": 40
+		},
+		{
+			"FName": "Alex",
+			"LName": "Freed",
+			"Hours": 40
+		},
+		{
+			"FName": "Sam",
+			"LName": "Snedden",
+			"Hours": 40
+		},
+		{
+			"FName": "Jill",
+			"LName": "Jarvis",
+			"Hours": 40
+		},
+		{
+			"FName": "Lyle",
+			"LName": "Leslie",
+			"Hours": 40
+		},
+		{
+			"FName": "Billie",
+			"LName": "King",
+			"Hours": 40
+		},
+		{
+			"FName": "John",
+			"LName": "Ed",
+			"Hours": 10
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 2
+		},
+		{
+			"FName": "Ray",
+			"LName": "King",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492e"
+	},
+	"Pname": "LaserPrinters",
+	"Pnumber": 92,
+	"Dname": "Hardware",
+	"Employees": [
+		{
+			"FName": "Joseph",
+			"LName": "Kirkish",
+			"Hours": 33
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 1
+		},
+		{
+			"FName": "Jon",
+			"LName": "Kramer",
+			"Hours": 40
+		},
+		{
+			"FName": "Nandita",
+			"LName": "Ball",
+			"Hours": 44
+		},
+		{
+			"FName": "John",
+			"LName": "James",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf492f"
+	},
+	"Pname": "MotherBoard",
+	"Pnumber": 29,
+	"Dname": "Hardware",
+	"Employees": [
+		{
+			"FName": "Leonard",
+			"LName": "Moody",
+			"Hours": 15
+		},
+		{
+			"FName": "James",
+			"LName": "Miller",
+			"Hours": 15
+		},
+		{
+			"FName": "Lisa",
+			"LName": "House",
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4930"
+	},
+	"Pname": "Middleware",
+	"Pnumber": 63,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Jennifer",
+			"LName": "Joy",
+			"Hours": 20
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Red",
+			"LName": "Bacher",
+			"Hours": 10
+		},
+		{
+			"FName": "Helga",
+			"LName": "Pataki",
+			"Hours": 40
+		},
+		{
+			"FName": "Jeff",
+			"LName": "Chase",
+			"Hours": 46
+		},
+		{
+			"FName": "Jose",
+			"LName": "Barbara",
+			"Hours": 40
+		},
+		{
+			"FName": "Cindy",
+			"LName": "Burklow",
+			"Hours": 25
+		},
+		{
+			"FName": "Gregory",
+			"LName": "Laurie",
+			"Hours": 25
+		},
+		{
+			"FName": "Kim",
+			"LName": "Grace",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4931"
+	},
+	"Pname": "ProductY",
+	"Pnumber": 2,
+	"Dname": "Research",
+	"Employees": [
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 2
+		},
+		{
+			"FName": "Franklin",
+			"LName": "Wong",
+			"Hours": 10
+		},
+		{
+			"FName": "Joyce",
+			"LName": "English",
+			"Hours": 20
+		},
+		{
+			"FName": "John",
+			"LName": "Smith",
+			"Hours": 7.5
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4932"
+	},
+	"Pname": "ProductX",
+	"Pnumber": 1,
+	"Dname": "Research",
+	"Employees": [
+		{
+			"FName": "Jisha",
+			"LName": "Carpenter",
+			"Hours": 25
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 2
+		},
+		{
+			"FName": "Joyce",
+			"LName": "English",
+			"Hours": 20
+		},
+		{
+			"FName": "John",
+			"LName": "Smith",
+			"Hours": 32.5
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4933"
+	},
+	"Pname": "OperatingSystem",
+	"Pnumber": 61,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Christina",
+			"LName": "Hisel",
+			"Hours": 4
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Red",
+			"LName": "Bacher",
+			"Hours": 30
+		},
+		{
+			"FName": "Sammy",
+			"LName": "Hall",
+			"Hours": 40
+		},
+		{
+			"FName": "Carl",
+			"LName": "Reedy",
+			"Hours": 40
+		},
+		{
+			"FName": "Naveen",
+			"LName": "Drew",
+			"Hours": 40
+		},
+		{
+			"FName": "Gerald",
+			"LName": "Small",
+			"Hours": 40
+		},
+		{
+			"FName": "Brad",
+			"LName": "Knight",
+			"Hours": 40
+		},
+		{
+			"FName": "Justin",
+			"LName": "Mark",
+			"Hours": 40
+		},
+		{
+			"FName": "Jon",
+			"LName": "Jones",
+			"Hours": 40
+		},
+		{
+			"FName": "Jared",
+			"LName": "James",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4934"
+	},
+	"Pname": "ProductZ",
+	"Pnumber": 3,
+	"Dname": "Research",
+	"Employees": [
+		{
+			"FName": "Johny",
+			"LName": "Smith",
+			"Hours": 10
+		},
+		{
+			"FName": "Andrea",
+			"LName": "Sondrini",
+			"Hours": 45
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Franklin",
+			"LName": "Wong",
+			"Hours": 10
+		},
+		{
+			"FName": "Ramesh",
+			"LName": "Narayan",
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4935"
+	},
+	"Pname": "SearchEngine",
+	"Pnumber": 22,
+	"Dname": "Software",
+	"Employees": [
+		{
+			"FName": "Penny",
+			"LName": "Wolowitz",
+			"Hours": 4
+		},
+		{
+			"FName": "Zach",
+			"LName": "Geller",
+			"Hours": 30
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4936"
+	},
+	"Pname": "Reorganization",
+	"Pnumber": 20,
+	"Dname": "Headquarters",
+	"Employees": [
+		{
+			"FName": "Johny",
+			"LName": "Smith",
+			"Hours": 10
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "James",
+			"LName": "Borg",
+			"Hours": 5
+		},
+		{
+			"FName": "Jennifer",
+			"LName": "Wallace",
+			"Hours": 15
+		},
+		{
+			"FName": "Franklin",
+			"LName": "Wong",
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efa23521e095edbf4937"
+	},
+	"Pname": "Newbenefits",
+	"Pnumber": 30,
+	"Dname": "Administration",
+	"Employees": [
+		{
+			"FName": "Johny",
+			"LName": "Smith",
+			"Hours": 25
+		},
+		{
+			"FName": "Roy",
+			"LName": "Lewallen",
+			"Hours": 4
+		},
+		{
+			"FName": "Jennifer",
+			"LName": "Wallace",
+			"Hours": 20
+		},
+		{
+			"FName": "Ahmad",
+			"LName": "Jabbar",
+			"Hours": 5
+		},
+		{
+			"FName": "Alicia",
+			"LName": "Zelaya",
+			"Hours": 30
+		}
+	]
+}

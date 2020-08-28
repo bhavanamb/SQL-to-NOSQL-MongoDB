@@ -1,0 +1,1182 @@
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4938"
+	},
+	"Emp_Fname": "Alex",
+	"Emp_Lname": "Freed",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4939"
+	},
+	"Emp_Fname": "Alex",
+	"Emp_Lname": "Yu",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "DataMining",
+			"Pnumber": 13,
+			"Hours": 18
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493a"
+	},
+	"Emp_Fname": "Ahmad",
+	"Emp_Lname": "Jabbar",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 35
+		},
+		{
+			"Pname": "Newbenefits",
+			"Pnumber": 30,
+			"Hours": 5
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493b"
+	},
+	"Emp_Fname": "Alicia",
+	"Emp_Lname": "Zelaya",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "Newbenefits",
+			"Pnumber": 30,
+			"Hours": 30
+		},
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493c"
+	},
+	"Emp_Fname": "Andrea",
+	"Emp_Lname": "Sondrini",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "ProductZ",
+			"Pnumber": 3,
+			"Hours": 45
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493d"
+	},
+	"Emp_Fname": "Andy",
+	"Emp_Lname": "Vile",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493e"
+	},
+	"Emp_Fname": "Arnold",
+	"Emp_Lname": "Head",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf493f"
+	},
+	"Emp_Fname": "Billie",
+	"Emp_Lname": "King",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4940"
+	},
+	"Emp_Fname": "Brad",
+	"Emp_Lname": "Knight",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4941"
+	},
+	"Emp_Fname": "Cameron",
+	"Emp_Lname": "Thirteen",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "EntityAnnot",
+			"Pnumber": 4,
+			"Hours": 45
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4942"
+	},
+	"Emp_Fname": "Alec",
+	"Emp_Lname": "Best",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4943"
+	},
+	"Emp_Fname": "Carl",
+	"Emp_Lname": "Reedy",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4944"
+	},
+	"Emp_Fname": "Chris",
+	"Emp_Lname": "Carter",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4945"
+	},
+	"Emp_Fname": "Christina",
+	"Emp_Lname": "Hisel",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 4
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4946"
+	},
+	"Emp_Fname": "Cindy",
+	"Emp_Lname": "Burklow",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4947"
+	},
+	"Emp_Fname": "Bob",
+	"Emp_Lname": "Bender",
+	"Emp_dname": "Sales",
+	"Projects": []
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4948"
+	},
+	"Emp_Fname": "Evan",
+	"Emp_Lname": "Wallis",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4949"
+	},
+	"Emp_Fname": "Bonnie",
+	"Emp_Lname": "Bays",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494a"
+	},
+	"Emp_Fname": "Debra",
+	"Emp_Lname": "Hall",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "ConfigMgmt",
+			"Pnumber": 11,
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494b"
+	},
+	"Emp_Fname": "Erin",
+	"Emp_Lname": "Maxfield",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "Advertizing",
+			"Pnumber": 70,
+			"Hours": 20
+		},
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494c"
+	},
+	"Emp_Fname": "Helga",
+	"Emp_Lname": "Pataki",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494d"
+	},
+	"Emp_Fname": "Jake",
+	"Emp_Lname": "Sheen",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "ConfigMgmt",
+			"Pnumber": 11,
+			"Hours": 25
+		},
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494e"
+	},
+	"Emp_Fname": "James",
+	"Emp_Lname": "Borg",
+	"Emp_dname": "Headquarters",
+	"Projects": [
+		{
+			"Pname": "Reorganization",
+			"Pnumber": 20,
+			"Hours": 5
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf494f"
+	},
+	"Emp_Fname": "Gregory",
+	"Emp_Lname": "Laurie",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4950"
+	},
+	"Emp_Fname": "Gerald",
+	"Emp_Lname": "Small",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4951"
+	},
+	"Emp_Fname": "Jared",
+	"Emp_Lname": "James",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4952"
+	},
+	"Emp_Fname": "Jeff",
+	"Emp_Lname": "Chase",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 46
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4953"
+	},
+	"Emp_Fname": "James",
+	"Emp_Lname": "Miller",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "MotherBoard",
+			"Pnumber": 29,
+			"Hours": 15
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4954"
+	},
+	"Emp_Fname": "Franklin",
+	"Emp_Lname": "Wong",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "ProductY",
+			"Pnumber": 2,
+			"Hours": 10
+		},
+		{
+			"Pname": "ProductZ",
+			"Pnumber": 3,
+			"Hours": 10
+		},
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 10
+		},
+		{
+			"Pname": "Reorganization",
+			"Pnumber": 20,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4955"
+	},
+	"Emp_Fname": "Jennifer",
+	"Emp_Lname": "Joy",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4956"
+	},
+	"Emp_Fname": "Jennifer",
+	"Emp_Lname": "Wallace",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "Newbenefits",
+			"Pnumber": 30,
+			"Hours": 20
+		},
+		{
+			"Pname": "Reorganization",
+			"Pnumber": 20,
+			"Hours": 15
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4957"
+	},
+	"Emp_Fname": "Jill",
+	"Emp_Lname": "Jarvis",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4958"
+	},
+	"Emp_Fname": "Jisha",
+	"Emp_Lname": "Carpenter",
+	"Emp_dname": "Headquarters",
+	"Projects": [
+		{
+			"Pname": "ProductX",
+			"Pnumber": 1,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4959"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "Ed",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495a"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "James",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "LaserPrinters",
+			"Pnumber": 92,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495b"
+	},
+	"Emp_Fname": "Jenny",
+	"Emp_Lname": "Vos",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495c"
+	},
+	"Emp_Fname": "John",
+	"Emp_Lname": "Smith",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "ProductX",
+			"Pnumber": 1,
+			"Hours": 32.5
+		},
+		{
+			"Pname": "ProductY",
+			"Pnumber": 2,
+			"Hours": 7.5
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495d"
+	},
+	"Emp_Fname": "Johny",
+	"Emp_Lname": "Smith",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "ProductZ",
+			"Pnumber": 3,
+			"Hours": 10
+		},
+		{
+			"Pname": "Reorganization",
+			"Pnumber": 20,
+			"Hours": 10
+		},
+		{
+			"Pname": "Newbenefits",
+			"Pnumber": 30,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495e"
+	},
+	"Emp_Fname": "Joseph",
+	"Emp_Lname": "Kirkish",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "LaserPrinters",
+			"Pnumber": 92,
+			"Hours": 33
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf495f"
+	},
+	"Emp_Fname": "Josh",
+	"Emp_Lname": "Zell",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 48
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4960"
+	},
+	"Emp_Fname": "Jon",
+	"Emp_Lname": "Kramer",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "LaserPrinters",
+			"Pnumber": 92,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4961"
+	},
+	"Emp_Fname": "Jon",
+	"Emp_Lname": "Jones",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4962"
+	},
+	"Emp_Fname": "Jose",
+	"Emp_Lname": "Barbara",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4963"
+	},
+	"Emp_Fname": "Joyce",
+	"Emp_Lname": "English",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "ProductX",
+			"Pnumber": 1,
+			"Hours": 20
+		},
+		{
+			"Pname": "ProductY",
+			"Pnumber": 2,
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4964"
+	},
+	"Emp_Fname": "Juan",
+	"Emp_Lname": "Linda",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "Human1",
+			"Pnumber": 95,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4965"
+	},
+	"Emp_Fname": "Kate",
+	"Emp_Lname": "King",
+	"Emp_dname": "Sales",
+	"Projects": []
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4966"
+	},
+	"Emp_Fname": "Justin",
+	"Emp_Lname": "Mark",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4967"
+	},
+	"Emp_Fname": "Kim",
+	"Emp_Lname": "Grace",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4968"
+	},
+	"Emp_Fname": "Lyle",
+	"Emp_Lname": "Leslie",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4969"
+	},
+	"Emp_Fname": "Kim",
+	"Emp_Lname": "Ted",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 25
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496a"
+	},
+	"Emp_Fname": "Megan",
+	"Emp_Lname": "Jones",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "Advertizing",
+			"Pnumber": 70,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496b"
+	},
+	"Emp_Fname": "Lisa",
+	"Emp_Lname": "House",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "MotherBoard",
+			"Pnumber": 29,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496c"
+	},
+	"Emp_Fname": "Michael",
+	"Emp_Lname": "Morgan",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "EntityAnnot",
+			"Pnumber": 4,
+			"Hours": 11
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496d"
+	},
+	"Emp_Fname": "Nandita",
+	"Emp_Lname": "Ball",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "LaserPrinters",
+			"Pnumber": 92,
+			"Hours": 44
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496e"
+	},
+	"Emp_Fname": "Naveen",
+	"Emp_Lname": "Drew",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf496f"
+	},
+	"Emp_Fname": "Penny",
+	"Emp_Lname": "Wolowitz",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "SearchEngine",
+			"Pnumber": 22,
+			"Hours": 4
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4970"
+	},
+	"Emp_Fname": "Leonard",
+	"Emp_Lname": "Moody",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "MotherBoard",
+			"Pnumber": 29,
+			"Hours": 15
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4971"
+	},
+	"Emp_Fname": "Ramesh",
+	"Emp_Lname": "Narayan",
+	"Emp_dname": "Research",
+	"Projects": [
+		{
+			"Pname": "ProductZ",
+			"Pnumber": 3,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4972"
+	},
+	"Emp_Fname": "Percy",
+	"Emp_Lname": "Liang",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "Advertizing",
+			"Pnumber": 70,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4973"
+	},
+	"Emp_Fname": "Richard",
+	"Emp_Lname": "Koelbel",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 35
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4974"
+	},
+	"Emp_Fname": "Ray",
+	"Emp_Lname": "King",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4975"
+	},
+	"Emp_Fname": "Red",
+	"Emp_Lname": "Bacher",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 30
+		},
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 10
+		},
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 10
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4976"
+	},
+	"Emp_Fname": "Sam",
+	"Emp_Lname": "Snedden",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4977"
+	},
+	"Emp_Fname": "Sammy",
+	"Emp_Lname": "Hall",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4978"
+	},
+	"Emp_Fname": "Sheldon",
+	"Emp_Lname": "Cucuou",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "Human1",
+			"Pnumber": 95,
+			"Hours": 23
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf4979"
+	},
+	"Emp_Fname": "Sunil",
+	"Emp_Lname": "Gupta",
+	"Emp_dname": "Networking",
+	"Projects": []
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf497a"
+	},
+	"Emp_Fname": "willie",
+	"Emp_Lname": "Mary",
+	"Emp_dname": "HR",
+	"Projects": [
+		{
+			"Pname": "Human1",
+			"Pnumber": 95,
+			"Hours": 35
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf497b"
+	},
+	"Emp_Fname": "Tom",
+	"Emp_Lname": "Brand",
+	"Emp_dname": "Hardware",
+	"Projects": [
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 40
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf497c"
+	},
+	"Emp_Fname": "Wilson",
+	"Emp_Lname": "Holmes",
+	"Emp_dname": "Administration",
+	"Projects": [
+		{
+			"Pname": "EntityAnnot",
+			"Pnumber": 4,
+			"Hours": 5
+		},
+		{
+			"Pname": "ConfigMgmt",
+			"Pnumber": 11,
+			"Hours": 20
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf497d"
+	},
+	"Emp_Fname": "Roy",
+	"Emp_Lname": "Lewallen",
+	"Emp_dname": "Sales",
+	"Projects": [
+		{
+			"Pname": "ProductX",
+			"Pnumber": 1,
+			"Hours": 2
+		},
+		{
+			"Pname": "ProductY",
+			"Pnumber": 2,
+			"Hours": 2
+		},
+		{
+			"Pname": "ProductZ",
+			"Pnumber": 3,
+			"Hours": 4
+		},
+		{
+			"Pname": "Computerization",
+			"Pnumber": 10,
+			"Hours": 4
+		},
+		{
+			"Pname": "Reorganization",
+			"Pnumber": 20,
+			"Hours": 4
+		},
+		{
+			"Pname": "Newbenefits",
+			"Pnumber": 30,
+			"Hours": 4
+		},
+		{
+			"Pname": "OperatingSystem",
+			"Pnumber": 61,
+			"Hours": 4
+		},
+		{
+			"Pname": "DatabaseSystems",
+			"Pnumber": 62,
+			"Hours": 4
+		},
+		{
+			"Pname": "Middleware",
+			"Pnumber": 63,
+			"Hours": 4
+		},
+		{
+			"Pname": "Advertizing",
+			"Pnumber": 70,
+			"Hours": 2
+		},
+		{
+			"Pname": "InkjetPrinters",
+			"Pnumber": 91,
+			"Hours": 2
+		},
+		{
+			"Pname": "LaserPrinters",
+			"Pnumber": 92,
+			"Hours": 1
+		},
+		{
+			"Pname": "Human1",
+			"Pnumber": 95,
+			"Hours": 3
+		}
+	]
+}
+{
+	"_id": {
+		"$oid": "5f32efe53521e095edbf497e"
+	},
+	"Emp_Fname": "Zach",
+	"Emp_Lname": "Geller",
+	"Emp_dname": "Software",
+	"Projects": [
+		{
+			"Pname": "SearchEngine",
+			"Pnumber": 22,
+			"Hours": 30
+		}
+	]
+}
