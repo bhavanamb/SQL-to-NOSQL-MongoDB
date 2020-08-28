@@ -1,1 +1,1 @@
-# SQL-to-NOSQL-MongoDB(JSON generation)
+# SQL-to-NOSQL-MongoDB
